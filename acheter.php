@@ -1,0 +1,1 @@
+<?php /* Script de traitement d'achat */ ?>

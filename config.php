@@ -1,0 +1,1 @@
+<?php /* Connexion PDO à PostgreSQL */ ?>

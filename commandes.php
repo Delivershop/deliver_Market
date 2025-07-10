@@ -1,0 +1,1 @@
+<?php /* Affichage dynamique des commandes */ ?>
